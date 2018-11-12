@@ -14,7 +14,7 @@ const APP_SHELL = [
     'img/avatars/wolverine.jpg',
     'img/avatars/thor.jpg',
     'img/avatars/hulk.jpg',
-    'js/app.js', 
+    'js/app.js',
     'js/sw-utils.js'
 ];
 const APP_SHELL_INMUTABLE = [
